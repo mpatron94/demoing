@@ -1,0 +1,61 @@
+body {
+	background-color: pink;
+}
+
+h1 {
+	background: green;
+}
+
+/* Etiquetas */
+
+#nombre {
+	background: purple; 
+}
+
+.apellidos {
+	background: orange;
+}
+.destacado {
+	color: white;
+}
+
+.caja1 {
+	width: 200px;
+	height: 200px;
+	background: purple;
+	float: left;
+	margin-top: 10px;
+	margin-left: 80px;
+
+}
+
+.caja2 {
+	width: 200px;
+	height: 200px;
+	background: green;
+	float:left;
+	margin-top: 10px;
+	margin-left: 0px;
+}
+
+.caja3 {
+	width: 200px;
+	height: 200px;
+	background: orange;
+	float:left;
+	margin-top: 210px;
+	margin-left: -400px;
+}
+
+.caja4 {
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	float: left;
+	margin-top: 210px;
+	margin-left: -200px;
+}
+
+
+
+}
